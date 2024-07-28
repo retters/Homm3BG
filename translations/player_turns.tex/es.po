@@ -254,7 +254,7 @@ msgstr ""
 "\\end{itemize}\n"
 "Si pierdes Moral descarta una Ficha de Moral Positiva \\includesvg[height=10px]{\\svgs/morale_positive.svg} si tienes una, de lo contrario ganas un Token de Moral Negativa\\index{Moral Negativa} \\includesvg[height=10px]{\\svgs/morale_negative.svg}.\n"
 "De igual modo, ganar Moral Positiva mientras tienes una Ficha de Moral Negativa la descarta.\n"
-"Si ganas una segunda Ficha de Moral Negativa en su lugar debes \\textbf{descartar tus Cartas} la próxima vez que termines el turno.\\par\n"
+"Si ganas una segunda Ficha de Moral Negativa en su lugar debes \\textbf{descartar tus Cartas} la próxima vez que termines el Turno.\\par\n"
 "\n"
 
 #. type: multicols
